@@ -1,24 +1,6 @@
-# my-component
+This is the Employee Form project, using Vue.js to build it.
 
-## Project setup
-```
-npm install
-```
+Please access the web app via this link https://employee-form-gt24.onrender.com
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Preview
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
